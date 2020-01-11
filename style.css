@@ -26,6 +26,7 @@ h3 {
 p {
   margin: 10px 0;
 }
+/****** INDEX.HTML*******/
 
 /****** NAVIGATION *******/
 /* .fas .fa-bolt i {} */
@@ -180,4 +181,49 @@ p {
   background-color: #333;
   color: #fff;
   padding: 20px;
+}
+
+/****** ABOUT.HTML*******/
+
+/****** ABOUT*******/
+#about-info .info-right {
+  float: right;
+  width: 50%;
+  min-height: 100%;
+}
+#about-info .info-right img {
+  display: block;
+  width: 70%;
+  margin: auto;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+#about-info .info-left {
+  float: left;
+  width: 50%;
+  min-height: 100%;
+}
+#about-info {
+  padding: 20px;
+}
+
+/****** OPINIONS*******/
+#opinion {
+  height: 600px;
+  background: url("/img/test-bg.jpg") no-repeat center center/cover;
+  padding-top: 40px;
+}
+.bg-primary {
+  background-color: #f7c08a;
+}
+#opinion img {
+  width: 100px;
+}
+#opinion .bigger {
+  color: #fff;
+  text-align: center;
+  padding-bottom: 40px;
 }
