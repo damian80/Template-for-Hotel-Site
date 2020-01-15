@@ -26,6 +26,7 @@ h3 {
 p {
   margin: 10px 0;
 }
+
 /****** INDEX.HTML*******/
 
 /****** NAVIGATION *******/
@@ -172,6 +173,7 @@ i {
   padding: 50px;
   text-align: center;
 }
+
 .box i {
   margin-bottom: 10px;
 }
@@ -180,6 +182,7 @@ i {
 .clr {
   clear: both;
 }
+
 #main-footer {
   text-align: center;
   background-color: #333;
@@ -195,6 +198,7 @@ i {
   width: 50%;
   min-height: 100%;
 }
+
 #about-info .info-right img {
   display: block;
   width: 70%;
@@ -205,11 +209,13 @@ i {
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
+
 #about-info .info-left {
   float: left;
   width: 50%;
   min-height: 100%;
 }
+
 #about-info {
   padding: 20px;
   margin-bottom: 40px;
@@ -221,10 +227,11 @@ i {
   background: url("/img/test-bg.jpg") no-repeat center center/cover;
   padding-top: 40px;
 }
+
 .bg-primary {
   background-color: #f7c08a;
   padding: 20px;
-  height: 150px;
+  height: 190px;
   border-radius: 5px;
   -webkit-border-radius: 5px;
   -moz-border-radius: 5px;
@@ -232,9 +239,11 @@ i {
   -o-border-radius: 5px;
   opacity: 0.8;
 }
+
 .second {
   margin-top: 20px;
 }
+
 #opinion img {
   width: 100px;
   float: left;
@@ -245,6 +254,7 @@ i {
   -ms-border-radius: 50%;
   -o-border-radius: 50%;
 }
+
 #opinion .bigger {
   color: #fff;
   text-align: center;
@@ -257,19 +267,23 @@ i {
 #contact-form .form-group {
   margin-bottom: 20px;
 }
+
 #contact-form label {
   display: block;
   margin-bottom: 5px;
 }
+
 #contact-form input,
 #contact-form textarea {
   width: 100%;
   padding: 10px;
   border: 1px #ddd solid;
 }
+
 #contact-form textarea {
   height: 200px;
 }
+
 #contact-form input:focus,
 #contact-form textarea:focus {
   outline: none;
